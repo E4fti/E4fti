@@ -1,0 +1,79 @@
+{
+  "username": "E F T I",
+  "bio": "Yoo bro are you good at coding or nah ??",
+  "status": "online",
+  "pronouns": "he/him",
+  "banner": "/assets/profilebanner.jpg",
+  "avatar": {
+    "src": "/assets/album-cover.jpg",
+    "alt": "Profile Avatar",
+    "useDiscord": true
+  },
+  "discord": {
+    "userId": "203320334923857921",
+    "showStatus": true,
+    "showActivity": true,
+    "showDecoration": true,
+    "serverId": "your_discord_server_id",
+    "serverIcon": "/assets/servericon.jpg",
+    "serverName": "your_discord_server_name_here"
+  },
+  "spotify": {
+    "enabled": true,
+    "embedUrl": "https://open.spotify.com/playlist/7tiPEUSHxjSiJ2C5H5UFEn?si=d461760f20c34b4d",
+    "height": 100,
+    "compact": true,
+    "showInDiscordStatus": true
+  },
+  "background": {
+    "src": "/assets/background.mp4",
+    "videoOpacity": 50,
+    "videoBlur": 0
+  },
+  "audio": {
+    "src": "/assets/audio.mp3",
+    "autoplay": true,
+    "loop": true,
+    "defaultVolume": 1
+  },
+  "cursor": {
+    "enabled": true,
+    "style": "dot",
+    "emoji": "✨",
+    "primaryColor": "180 100% 50%",
+    "secondaryColor": "300 100% 50%"
+  },
+  "socialLinks": [
+    { "platform": "facebook", "url": "https://facebook.com/e4fti" },
+    { "platform": "twitter", "url": "https://twitter.com/e4fti" },
+    { "platform": "instagram", "url": "https://instagram.com/e4fti_" },
+    { "platform": "youtube", "url": "https://youtube.com/e4fti" },
+    { "platform": "github", "url": "https://github.com/e4fti" },
+    { "platform": "linkedin", "url": "https://linkedin.com/in/e4fti" },
+    { "platform": "email", "url": "mailto:eftiislam45@gmail.com" },
+    { "platform": "website", "url": "https://frozi.lol/e4fti" }
+  ],
+  "customLinks": [],
+  "badges": [
+    { "icon": "/assets/discord.png", "label": "Discord" },
+    { "icon": "/assets/github.png", "label": "GitHub" }
+  ],
+  "theme": {
+    "glowCyan": "180 100% 50%",
+    "glowPurple": "270 100% 60%",
+    "glowPink": "320 100% 60%"
+  },
+  "effects": {
+    "tiltEnabled": true,
+    "tiltMaxAngle": 8,
+    "noiseEnabled": false,
+    "showViews": true,
+    "viewCount": 50000
+  },
+  "footer": {
+    "text": "Made with ❤️ by Efti",
+    "heart": true,
+    "brandName": "web-card-guns.lol",
+    "brandUrl": "https://web-card-guns.lol"
+  }
+}

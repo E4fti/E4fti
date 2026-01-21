@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": null,
+  "outputDirectory": "dist/public",
+  "env": {
+    "DATABASE_URL": "postgresql://postgres:ShantoIslam1@#*@db.penfzkpvbhpdewzgcidt.supabase.co:5432/postgres"
+  },
+  "routes": [
+    { "src": "/(.*)", "dest": "/dist/index.cjs" }
+  ]
+}
